@@ -4,9 +4,7 @@ import main from './components/MainSection.js';
 import footer from './components/Footer.js';
 
 const renderUserInterface = () => {
-  document.body.appendChild(header);
-  document.body.appendChild(main);
-  document.body.appendChild(footer);
+  document.body.appendChild(header, main, footer);
 };
 
 window.addEventListener('DOMContentLoaded', () => {
