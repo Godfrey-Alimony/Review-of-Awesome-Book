@@ -1,6 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Awesome-books
+A Awesome app that keep the record and Add Books in store, API to allow users to add,keep and remove Books in storage. Built with JavaScript.'
+
 
 In this project, you will restructure your Awesome books app code. The goal is to make it more organized by using modules. You will also practice the ES6 syntax that you have learned.
 ### Desktop Version
